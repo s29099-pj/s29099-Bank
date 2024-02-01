@@ -1,7 +1,5 @@
 package projekt.controller;
 
-
-
 import projekt.service.BankService;
 import projekt.model.BankAccount;
 
